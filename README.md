@@ -1,4 +1,4 @@
-# TCGCF
+# KGCF
 This is the implementation code of KGCF
 
 To run this code, please follow all the dependencies in requirements.txt
